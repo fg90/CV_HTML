@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="index.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" crossorigin="anonymous">
+  <title>Felix Gomez CV</title>
+</head>
+<body>
+    <header>
+        <div class="header-content">
+          <!--<img src="tu_foto.jpg" alt="Foto del aplicante" class="applicant-photo">-->
+          <div>
+            <h1>Felix Gomez</h1>
+            <div class="contact-container">
+              <div class="contact-item">
+                <i class="fas fa-envelope"></i>
+                <p>xilefzemog@gmail.com</p>
+              </div>
+              <div class="contact-item">
+                <i class="fas fa-phone-alt"></i>
+                <p>+584145560018</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <nav>
+          <button id="btnEnglish" onclick="changeLanguage('en')">English</button>
+          <button id="btnSpanish" onclick="changeLanguage('es')">Español</button>
+        </nav>
+      </header>
+    <main>
+        <div id="resume">
+            <div id="summary" class="section">
+                <h2 id="summaryTitle" class="section-title"></h2>
+                <p id="summaryInfo" class="section-info"></p>
+            </div>
+            <div id="technicalSkills" class="section">
+                <h2 id="technicalSkillsTitle" class="section-title"></h2>
+                <ul id="technicalSkillsList" class="section-info"></ul>
+            </div>
+            <div id="professionalExperience" class="section">
+                <h2 id="professionalExperienceTitle" class="section-title"></h2>
+                <ul id="professionalExperienceList" class="section-info"></ul>
+            </div>
+            <div id="education" class="section">
+                <h2 id="educationTitle" class="section-title"></h2>
+                <p id="educationInfo" class="section-info"></p>
+            </div>
+            <div id="certifications" class="section">
+                <h2 id="certificationsTitle" class="section-title"></h2>
+                <ul id="certificationsList" class="section-info"></ul>
+            </div>
+            <div id="projects" class="section">
+                <h2 id="projectsTitle" class="section-title"></h2>
+                <ul id="projectsList" class="section-info"></ul>
+            </div>
+            <div id="languages" class="section">
+                <h2 id="languagesTitle" class="section-title"></h2>
+                <p id="languagesInfo" class="section-info"></p>
+            </div>
+            <div id="location" class="section">
+                <h2 id="locationTitle" class="section-title"></h2>
+                <p id="locationInfo" class="section-info"></p>
+            </div>
+        </div>
+    </main>
+    <footer>
+        <nav>
+        </nav>
+      </footer>
+  <script src="index.js"></script>
+</body>
+</html>

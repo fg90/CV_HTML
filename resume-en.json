@@ -1,0 +1,105 @@
+{
+    "summary": {
+        "title": "Summary",
+        "info": "Software Engineer with over 8 years of experience in web development, specializing in REST APIs, microservices, and full-stack developments. Strong problem-solving skills and a versatile mindset that enables effective collaboration with various individuals."
+      },
+      "technicalSkills": {
+        "title": "Technical Skills",
+        "info": [
+          "Programming Languages: JavaScript, C#, Scala, Java, Swift, Rust, Python",
+          "Web Technologies: React, Angular, HTML5, Responsive Design",
+          "Agile Methodologies: Scrum, Kanban",
+          "Databases: RDBMS, MongoDB, CosmosDB",
+          "Version Control: Git"
+        ]
+      },
+      "professionalExperience": {
+        "title": "Professional Experience",
+        "info": [
+          {
+            "position": "Software Developer",
+            "company": "Servieduca",
+            "location": "Maracaibo Venezuela",
+            "period": "July 2012 – April 2016",
+            "responsibilities": [
+              "Designed and supported multiple websites for clients, resulting in a 15% increase in user engagement",
+              "Performed bug fixing, enhanced existing features, and developed new features"
+            ]
+          },
+          {
+            "position": "Senior Software Developer",
+            "company": "CPS",
+            "location": "Maracaibo Venezuela",
+            "period": "April 2016 – October 2017",
+            "responsibilities": [
+              "Developed and designed custom technological solutions for various clients, improving organizational efficiency by 20%",
+              "Improved organizational systems through new feature development and bug resolution"
+            ]
+          },
+          {
+            "position": "Senior Software Developer",
+            "company": "Hexacta",
+            "location": "Argentina",
+            "period": "October 2017 – December 2018",
+            "responsibilities": [
+              "Created innovative technological solutions for clients while providing support to existing features",
+              "Enhanced existing features, developed new ones, and resolved bugs, reducing system downtime by 25%"
+            ]
+          },
+          {
+            "position": "Software Developer",
+            "company": "Binwus",
+            "location": "Maracaibo Venezuela",
+            "period": "January 2021 – September 2021",
+            "responsibilities": [
+              "Developed and designed custom technological solutions for various clients, leading to a 30% increase in system performance",
+              "Improved organizational systems through new feature development and bug resolution"
+            ]
+          },
+          {
+            "position": "Scala Developer",
+            "company": "Applaudo Studios",
+            "location": "Salvador",
+            "period": "September 2021 – Present",
+            "responsibilities": [
+              "Constructed highly concurrent backend reactive microservices for processing large volumes of data using Kafka streaming",
+              "Designed creative technological solutions to address organizational challenges"
+            ]
+          }
+        ]
+      },
+    "education": {
+        "title": "Education",
+        "info": "Bachelor of Computer Science Engineering, 2012 Universidad Rafael Belloso Chacin, Maracaibo, Venezuela"
+    },
+    "certifications": {
+        "title": "Certifications and Additional Courses",
+        "info": [
+            "Introduction to Artificial Intelligence, Stanford Online Course, 2010",
+            "Functional Programming Principles in Scala, Coursera, 2013",
+            "Principles of Reactive Programming, Coursera, 2014",
+            "Introduction to Mathematical Thinking, Stanford Coursera, 2015"]
+    },
+    "projects":{ 
+        "title":"Projects",
+        "info":[
+        {
+          "name": "Adaptation of Microsoft Dynamics CRM for a university system and website integration",
+          "role": "C# Developer and CRM Expert",
+          "technologies": ["Microsoft Dynamics CRM", "C#", "Razor", ".NET 4.5", "IIS", "SQL Server"]
+        },
+        {
+          "name": "Creation of a distributed system to handle the financial information of multiple stores across a country in near real-time",
+          "role": "Scala Developer",
+          "technologies": ["Scala", "Kafka", "Akka", "Akka Streams", "Kubernetes", "DB2", "CosmosDB", "Azure Blob Storage"]
+        }]
+    },
+    "languages": {
+        "title": "Languages",
+        "info": "English Advanced - Spanish Native"
+      },
+    "location": { 
+        "title": "Location",
+        "info": "Maracaibo - Venzuela"
+    }
+  }
