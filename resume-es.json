@@ -1,111 +1,131 @@
 {
-    "summary": {
-      "title": "Resumen",
-      "info":
-        "Ingeniero de Software con más de 8 años de experiencia en desarrollo web, especializado en APIs REST, microservicios y full-stack development. Fuertes habilidades para resolver problemas y mentalidad versátil que permite una colaboración efectiva con diversas personas."
-    },
-    "technicalSkills": {
-      "title": "Habilidades Técnicas",
-      "info": [
-        "Lenguajes de Programación: JavaScript, C#, Scala, Java, Swift",
-        "Tecnologías Web: React, Angular, HTML5, Diseño Responsivo",
-        "Metodologías Ágiles: Scrum, Kanban",
-        "Bases de Datos: RDBMS, MongoDB, CosmosDB",
-        "Control de Versiones: Git"
-      ]
-    },
-    "professionalExperience": {
-      "title": "Experiencia Profesional",
-      "info": [
-        {
-          "position": "Desarrollador de Software",
-          "company": "Servieduca",
-          "location": "Maracaibo - Venezuela",
-          "period": "Julio 2012 – Abril 2016",
-          "responsibilities":[
-            "Diseñó y brindó soporte a múltiples sitios web para clientes, lo que resultó en un aumento del 15% en la participación de los usuarios",
-            "Realizó correcciones de errores, mejoró las funciones existentes y desarrolló nuevas funciones"
-          ]
-        },
-        {
-          "position": "Desarrollador Senior de Software",
-          "company": "CPS",
-          "location": "Maracaibo - Venezuela",
-          "period": "Abril 2016 – Octubre 2017",
-          "responsibilities":[
-            "Desarrolló y diseñó soluciones tecnológicas personalizadas para diversos clientes, mejorando la eficiencia organizativa en un 20%",
-            "Mejoró los sistemas organizativos mediante el desarrollo de nuevas funciones y la resolución de errores"
-          ]
-        },
-        {
-          "position": "Desarrollador Senior de Software",
-          "company": "Hexacta",
-          "location": "Argentina",
-          "period": "Octubre 2017 – Diciembre 2018",
-          "responsibilities":[
-            "Creó soluciones tecnológicas innovadoras para clientes y brindó soporte a las funciones existentes",
-            "Mejoró las funciones existentes, desarrolló nuevas y resolvió errores, reduciendo el tiempo de inactividad del sistema en un 25%"
-          ]
-        },
-        {
-          "position": "Desarrollador de Software",
-          "company": "Binwus",
-          "location": "Maracaibo - Venezuela",
-          "period": "Enero 2021 – Septiembre 2021",
-          "responsibilities":[
-            "Desarrolló y diseñó soluciones tecnológicas personalizadas para diversos clientes, lo que llevó a un aumento del 30% en el rendimiento del sistema",
-            "Mejoró los sistemas organizativos mediante el desarrollo de nuevas funciones y la resolución de errores"
-            ]
-        },
-        {
-          "position": "Desarrollador de Scala",
-          "company": "Applaudo Studios",
-          "location": "Salvador",
-          "period": "Septiembre 2021 – Presente",
-          "responsibilities":[
-            "Construyó microservicios reactivos de backend altamente concurrentes para procesar grandes volúmen  menes de datos utilizando transmisión de Kafka",
-            "Diseñó soluciones tecnológicas creativas para abordar desafíos organizativos"
-            ]
-        }
-      ]
-    },
-    "education": {
-      "title": "Educación",
-      "info":
-        "Ingeniería en Informática, 2012 Universidad Rafael Belloso Chacín, Maracaibo, Venezuela"
-    },
-    "certifications": {
-      "title": "Certificaciones y Cursos Adicionales",
-      "info": [
-        "Introducción a la Inteligencia Artificial, Curso en línea de Stanford, 2010",
-        "Principios de Programación Funcional en Scala, Coursera, 2013",
-        "Principios de Programación Reactiva, Coursera, 2014",
-        "Introducción al Pensamiento Matemático, Coursera de Stanford, 2015" 
-      ]
-    },
-    "projects": {
-      "title": "Proyectos destacados",
-      "info": [
-        {
-          "name": "Adaptación de Microsoft Dynamics CRM para un sistema universitario e integración de sitio web",
-          "role": "Desarrollador de C# y Experto en CRM",
-          "technologies":
-            "Microsoft Dynamics CRM, C#, Razor, .NET 4.5, IIS, SQL Server"
-        },
-        {
-          "name": "Creación de un sistema distribuido para manejar la información financiera de múltiples tiendas en todo un país en tiempo casi real",
-          "role": "Desarrollador de Scala",
-          "technologies":
-            "Scala, Kafka, Akka, Akka Streams, Kubernetes, DB2, CosmosDB, Azure Blob Storage"
-        }
-      ]
-    },
-    "languages": {
-      "title": "Idiomas",
-      "info": "Español: Nativo - Inglés: Avanzado"
-    },
-    "location": {
-      "title": "Ubicación",
-      "info": "Maracaibo - Venezuela"
-    }
+  "summary": {
+    "title": "Resumen",
+    "info": "Ingeniero de software con más de 8 años de experiencia en desarrollo web, especializado en APIs REST, microservicios y desarrollos full-stack. Fuertes habilidades para resolver problemas y una mentalidad versátil que permite la colaboración efectiva con diversas personas."
+  },
+  "technicalSkills": {
+    "title": "Habilidades técnicas",
+    "info": [
+      "Lenguajes de programación: JavaScript, C#, Scala, Java, Swift, Rust, Python",
+      "Tecnologías web: React, Angular, HTML5, Diseño responsive",
+      "Metodologías ágiles: Scrum, Kanban",
+      "Bases de datos: RDBMS, MongoDB, CosmosDB",
+      "Control de versiones: Git"
+    ]
+  },
+  "professionalExperience": {
+    "title": "Experiencia profesional",
+    "info": [
+      {
+        "position": "Desarrollador de Software",
+        "company": "Servieduca",
+        "location": "Maracaibo-Venezuela",
+        "period": "Julio 2012 – Abril 2016",
+        "responsibilities": [
+          "Backend Developer",
+          "Diseñó y brindó soporte a varios sitios web para clientes",
+          "Realizó la corrección de errores, mejoró las funciones existentes y desarrolló nuevas funciones"
+        ]
+      },
+      {
+        "position": "Desarrollador de Software Senior",
+        "company": "CPS",
+        "location": "Maracaibo-Venezuela",
+        "period": "Abril 2016 – Octubre 2017",
+        "responsibilities": [
+          "Fullstack Developer",
+          "Desarrolló y diseñó soluciones tecnológicas personalizadas para varios clientes",
+          "Mejoró los sistemas organizativos a través del desarrollo de nuevas funciones y la resolución de errores"
+        ]
+      },
+      {
+        "position": "Desarrollador de Software Senior",
+        "company": "Hexacta",
+        "location": "Remoto - Argentina",
+        "period": "Octubre 2017 – Diciembre 2018",
+        "responsibilities": [
+          "Fullstack Developer",
+          "Creó soluciones tecnológicas innovadoras para los clientes mientras proporcionaba soporte a las funciones existentes",
+          "Mejoró las funciones existentes, desarrolló nuevas y resolvió errores",
+          "Corrigio errores en la interfaces de usuario y mejoro su perfomance"
+        ]
+      },
+      {
+        "position": "Desarrollador de Software",
+        "company": "Binwus",
+        "location": "Maracaibo-Venezuela",
+        "period": "Enero 2021 – Septiembre 2021",
+        "responsibilities": [
+          "Fullstack Developer",
+          "Desarrolló y diseñó soluciones tecnológicas personalizadas para varios clientes",
+          "Mejoró los sistemas organizativos a través del desarrollo de nuevas funciones y la resolución de errores",
+          "Participo activamente en la mejora y evolución de las interfaces de usuario, y además, trabajo en el desarrollo y optimización de servicios"
+        ]
+      },
+      {
+        "position": "Desarrollador de Scala",
+        "company": "Applaudo Studios",
+        "location": "Remoto - Salvador",
+        "period": "Septiembre 2021 – Actualidad",
+        "responsibilities": [
+          "Backend Developer",
+          "Construyó microservicios reactivos altamente concurrentes para el procesamiento de grandes volúmenes de datos utilizando la transmisión de Kafka",
+          "Diseñó soluciones tecnológicas creativas para enfrentar los desafíos organizacionales"
+        ]
+      }
+    ]
+  },
+  "education": {
+    "title": "Educación",
+    "info": "Licenciatura en Ingeniería de Informática, 2012 Universidad Rafael Belloso Chacin, Maracaibo, Venezuela"
+  },
+  "certifications": {
+    "title": "Certificaciones y cursos adicionales",
+    "info": [
+      "Introducción a la Inteligencia Artificial, curso en línea de Stanford, 2010",
+      "Principios de Programación Funcional en Scala, Coursera, 2013",
+      "Principios de Programación Reactiva, Coursera, 2014",
+      "Introducción al Pensamiento Matemático, Stanford Coursera, 2015",
+      "Ingeniería de Prompts de ChatGpt para Desarrolladores por OpenAI 2023"
+    ]
+  },
+  "projects": {
+    "title": "Proyectos",
+    "info": [
+      {
+        "name": "Adaptación de Microsoft Dynamics CRM para un sistema universitario e integración de sitios web",
+        "role": "Experto en C# y CRM",
+        "technologies": [
+          "Microsoft Dynamics CRM",
+          "C#",
+          "Razor",
+          ".NET 4.5",
+          "IIS",
+          "SQL Server"
+        ]
+      },
+      {
+        "name": "Creación de un sistema distribuido para manejar la información financiera de varias tiendas en un país en tiempo casi real",
+        "role": "Desarrollador de Scala",
+        "technologies": [
+          "Scala",
+          "Kafka",
+          "Akka",
+          "Akka Streams",
+          "Kubernetes",
+          "DB2",
+          "CosmosDB",
+          "Azure Blob Storage"
+        ]
+      }
+    ]
+  },
+  "languages": {
+    "title": "Idiomas",
+    "info": "Inglés avanzado - Español nativo"
+  },
+  "location": {
+    "title": "Ubicación",
+    "info": "Maracaibo - Venezuela"
   }
+}
