@@ -1,124 +1,114 @@
 {
-  "summary": {
-    "title": "Resumen",
-    "info": "Ingeniero de software con más de 8 años de experiencia en desarrollo web, especializado en APIs REST, microservicios y desarrollos full-stack. Fuertes habilidades para resolver problemas y una mentalidad versátil que permite la colaboración efectiva con diversas personas."
-  },
-  "technicalSkills": {
-    "title": "Habilidades técnicas",
-    "info": [
-      "Lenguajes de programación: JavaScript, C#, Scala, Java, Swift, Rust, Python",
-      "Tecnologías web: React, Angular, HTML5, Diseño responsive",
-      "Metodologías ágiles: Scrum, Kanban",
-      "Bases de datos: RDBMS, MongoDB, CosmosDB",
-      "Control de versiones: Git"
-    ]
-  },
-  "professionalExperience": {
-    "title": "Experiencia profesional",
-    "info": [
-      {
-        "position": "Desarrollador de Software",
-        "company": "Servieduca",
-        "location": "Maracaibo-Venezuela",
-        "period": "Julio 2012 – Abril 2016",
-        "responsibilities": [
-          "Backend Developer",
-          "Diseñó y brindó soporte a varios sitios web para clientes",
-          "Realizó la corrección de errores, mejoró las funciones existentes y desarrolló nuevas funciones"
+    "summary": {
+        "title": "Summary",
+        "info": "Software Engineer with over 8 years of experience in web development, specializing in REST APIs, microservices, and full-stack developments. Strong problem-solving skills and a versatile mindset that enables effective collaboration with various individuals."
+      },
+      "technicalSkills": {
+        "title": "Technical Skills",
+        "info": [
+          "Programming Languages: JavaScript, C#, Scala, Java, Swift, Rust, Python",
+          "Web Technologies: React, Angular, HTML5, Responsive Design",
+          "Agile Methodologies: Scrum, Kanban",
+          "Databases: RDBMS, MongoDB, CosmosDB",
+          "Version Control: Git"
         ]
       },
-      {
-        "position": "Desarrollador de Software Senior",
-        "company": "CPS",
-        "location": "Maracaibo-Venezuela",
-        "period": "Abril 2016 – Octubre 2017",
-        "responsibilities": [
-          "Fullstack Developer",
-          "Desarrolló y diseñó soluciones tecnológicas personalizadas para varios clientes",
-          "Mejoró los sistemas organizativos a través del desarrollo de nuevas funciones y la resolución de errores"
+      "professionalExperience": {
+        "title": "Professional Experience",
+        "info": [
+          {
+            "position": "Software Developer",
+            "company": "Servieduca",
+            "location": "Maracaibo Venezuela",
+            "period": "July 2012 – April 2016",
+            "responsibilities": [
+              "Fullstack Developer",
+              "Designed and supported multiple websites for clients",
+              "Performed bug fixing, enhanced existing features, and developed new features"
+            ]
+          },
+          {
+            "position": "Senior Software Developer",
+            "company": "CPS",
+            "location": "Maracaibo Venezuela",
+            "period": "April 2016 – October 2017",
+            "responsibilities": [
+              "Fullstack Developer", 
+              "Developed and designed custom technological solutions for various clients",
+              "Improved organizational systems through new feature development and bug resolution"
+            ]
+          },
+          {
+            "position": "Senior Software Developer",
+            "company": "Hexacta",
+            "location": "Argentina",
+            "period": "October 2017 – December 2018",
+            "responsibilities": [
+               "Fullstack Developer",
+              "Created innovative technological solutions for clients while providing support to existing features",
+              "Enhanced existing features, developed new ones, and resolved bugs"
+            ]
+          },
+          {
+            "position": "Software Developer",
+            "company": "Binwus",
+            "location": "Maracaibo Venezuela",
+            "period": "January 2021 – September 2021",
+            "responsibilities": [
+               "Fullstack Developer",
+              "Developed and designed custom technological solutions for various clients",
+              "Improved organizational systems through new feature development and bug resolution"
+            ]
+          },
+          {
+            "position": "Scala Developer",
+            "company": "Applaudo Studios",
+            "location": "Salvador",
+            "period": "September 2021 – Present",
+            "responsibilities": [
+              "Backend Developer",  
+              "Constructed highly concurrent backend reactive microservices for processing large volumes of data using Kafka streaming",
+              "Designed creative technological solutions to address organizational challenges"
+            ]
+          }
         ]
       },
-      {
-        "position": "Desarrollador de Software Senior",
-        "company": "Hexacta",
-        "location": "Remoto - Argentina",
-        "period": "Octubre 2017 – Diciembre 2018",
-        "responsibilities": [
-          "Fullstack Developer",
-          "Creó soluciones tecnológicas innovadoras para los clientes mientras proporcionaba soporte a las funciones existentes",
-          "Mejoró las funciones existentes, desarrolló nuevas y resolvió errores",
-          "Corrigio errores en la interfaces de usuario y mejoro su perfomance"
-        ]
+    "education": {
+        "title": "Education",
+        "info": "Bachelor of Computer Science Engineering, 2012 Universidad Rafael Belloso Chacin, Maracaibo, Venezuela"
+    },
+    "certifications": {
+        "title": "Certifications and Additional Courses",
+        "info": [
+            "Introduction to Artificial Intelligence, Stanford Online Course, 2010",
+            "Functional Programming Principles in Scala, Coursera, 2013",
+            "Principles of Reactive Programming, Coursera, 2014",
+            "Introduction to Mathematical Thinking, Stanford Coursera, 2015",
+            "ChatGPT Prompt Engineering for Developers by OpenAI 2023"]
+    },
+    "projects":{ 
+        "title":"Projects",
+        "info":[
+        {
+          "name": "Adaptation of Microsoft Dynamics CRM for a university system and website integration",
+          "role": "C# Developer and CRM Expert",
+          "technologies": ["Microsoft Dynamics CRM", "C#", "Razor", ".NET 4.5", "IIS", "SQL Server"]
+        },
+        {
+          "name": "Creation of a distributed system to handle the financial information of multiple stores across a country in near real-time",
+          "role": "Scala Developer",
+          "technologies": ["Scala", "Kafka", "Akka", "Akka Streams", "Kubernetes", "DB2", "CosmosDB", "Azure Blob Storage"]
+        }]
+    },
+    "languages": {
+        "title": "Languages",
+        "info": "English Advanced - Spanish Native"
       },
-      {
-        "position": "Desarrollador de Software",
-        "company": "Binwus",
-        "location": "Maracaibo-Venezuela",
-        "period": "Enero 2021 – Septiembre 2021",
-        "responsibilities": [
-          "Fullstack Developer",
-          "Desarrolló y diseñó soluciones tecnológicas personalizadas para varios clientes",
-          "Mejoró los sistemas organizativos a través del desarrollo de nuevas funciones y la resolución de errores",
-          "Participo activamente en la mejora y evolución de las interfaces de usuario, y además, trabajo en el desarrollo y optimización de servicios"
-        ]
-      },
-      {
-        "position": "Desarrollador de Scala",
-        "company": "Applaudo Studios",
-        "location": "Remoto - Salvador",
-        "period": "Septiembre 2021 – Actualidad",
-        "responsibilities": [
-          "Backend Developer",
-          "Construyó microservicios reactivos altamente concurrentes para el procesamiento de grandes volúmenes de datos utilizando la transmisión de Kafka",
-          "Diseñó soluciones tecnológicas creativas para enfrentar los desafíos organizacionales"
-        ]
-      }
-    ]
-  },
-  "education": {
-    "title": "Educación",
-    "info": "Licenciatura en Ingeniería de Informática, 2012 Universidad Rafael Belloso Chacin, Maracaibo, Venezuela"
-  },
-  "certifications": {
-    "title": "Certificaciones y cursos adicionales",
-    "info": [
-      "Introducción a la Inteligencia Artificial, curso en línea de Stanford, 2010",
-      "Principios de Programación Funcional en Scala, Coursera, 2013",
-      "Principios de Programación Reactiva, Coursera, 2014",
-      "Introducción al Pensamiento Matemático, Stanford Coursera, 2015",
-      "Ingeniería de Prompts de ChatGpt para Desarrolladores por OpenAI 2023"
-    ]
-  },
-  "projects": {
-    "title": "Proyectos",
-    "info": [
-      {
-        "name": "Adaptación de Microsoft Dynamics CRM para un sistema universitario e integración de sitios web",
-        "role": "Experto en C# y CRM",
-        "technologies": [
-          "Microsoft Dynamics CRM",
-          "C#",
-          "Razor",
-          ".NET 4.5",
-          "IIS",
-          "SQL Server"
-        ]
-      },
-      {
-        "name": "Creación de un sistema distribuido para manejar la información financiera de varias tiendas en un país en tiempo casi real",
-        "role": "Desarrollador de Scala",
-        "technologies": [
-          "Scala",
-          "Kafka",
-          "Akka",
-          "Akka Streams",
-          "Kubernetes",
-          "DB2",
-          "CosmosDB",
-          "Azure Blob Storage"
-        ]
-      }
-    ]
+    "location": { 
+        "title": "Location",
+        "info": "Maracaibo - Venzuela"
+    }
+  }
   },
   "languages": {
     "title": "Idiomas",
